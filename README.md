@@ -3,7 +3,7 @@
 
 ### MEMBERS
 - Jevon Chan Ho Kim/[Jevon] (https://github.com/jevonchanstudent) (00000061258)
-- James Edwin Widjaja/[James] (00000061548)
+- James Edwin Widjaja/[James] https://github.com/Jamesedwinumn/umnlife (00000061548)
 - Mega Bagas Tirta Kusuma/[Bagas] (00000062337)
 - Rajendra Abhinaya/[Abhi] (00000060445)
 
